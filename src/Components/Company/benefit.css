@@ -1,0 +1,26 @@
+.benefit{
+    width: 100%;
+    margin-top: 5rem;
+    display: flex;
+    gap: 40px;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+.benefit-list{
+    width: 100%;
+}
+.benefit-facilities{
+    padding: 30px;
+    border: 1px solid #ff2ea2;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.benefit-para{
+    font-size: 22px;
+    color: #4f4f4f;
+    font-family: "Inter";
+    font-style: normal;
+    line-height: 24px;
+    margin-bottom: 20px;
+}

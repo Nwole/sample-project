@@ -1,0 +1,55 @@
+.company{
+    width: 100%;
+    margin-top: 40px;
+}
+.company-para{
+    text-align: center;
+    color: #A6D1E6;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.company para{
+    color: #A6D1E6;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.images{
+    /* width: 50%; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.our-service{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.service-card{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.card{
+    text-align: center;
+    width: 20%;
+    height: 10%;
+    padding: 20px;
+    box-shadow: 3px 3px 3px 3px ;
+    /* boxShadow: '1px 2px 9px #F4AAB9',
+    margin: '4em';
+    padding: '1em'; */
+}
+.develop-services{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
